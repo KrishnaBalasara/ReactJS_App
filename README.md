@@ -67,3 +67,40 @@ You should see the version numbers displayed, confirming the installation.
    - You should see the React project running locally.
 
 Remember that each step is crucial, and it's important to ensure that all installations and commands are executed accurately. If you encounter any issues, refer to the project's documentation or community for assistance.
+
+
+## Running React Project on Your Mobile Device
+
+1. Connect Both Devices:
+
+   - Ensure your computer and mobile are on the same Wi-Fi network.
+
+2. Find Computer's IP:
+
+   - Open terminal/command prompt on your computer.
+   - Use `ipconfig` (Windows) or `ifconfig` (macOS/Linux) to find your local IP address.
+
+3. Update Project Configuration:
+
+   - Locate the project's `package.json` file.
+   - Modify the `start` script to use your computer's IP address:
+
+     "scripts": {
+       "start": "react-scripts start --host your-computer-ip"
+     }
+   
+4. Restart Development Server:
+
+   - In the project folder's terminal, stop server (if running).
+   - Start server with `npm start`.
+
+5. Access on Mobile:
+
+   - On your mobile's browser, enter `http://your-computer-ip:3000`.
+
+6. Test Responsiveness:
+
+   - Check project's appearance and behavior on mobile.
+   - Use browser dev tools to simulate various devices.
+
+This lets you see how your React project behaves on smaller screens, helping catch potential issues early.
