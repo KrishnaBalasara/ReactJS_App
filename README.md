@@ -45,7 +45,7 @@ You should see the version numbers displayed, confirming the installation.
    - Open a terminal or command prompt.
    - Use the `cd` command to move to the directory where you extracted the project:
    
-    `cd path/to/extracted/project`
+      `cd path/to/extracted/project`
     
 2. Install Project Dependencies:
 
