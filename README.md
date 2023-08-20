@@ -4,7 +4,7 @@
 
 1. Download ZIP File:
 
-   - Visit this project's repository.
+   -Visit this project's repository.
    - Look for the "Code" button and select "Download ZIP".
    - Save the ZIP file to a location on your computer.
 
