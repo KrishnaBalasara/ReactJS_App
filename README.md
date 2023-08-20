@@ -33,8 +33,8 @@
    - Open a terminal or command prompt.
    - Check the installed versions with these commands:
    
-     node -v
-     npm -v
+     `node -v`
+     `npm -v`
      
 You should see the version numbers displayed, confirming the installation.
 
