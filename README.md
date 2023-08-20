@@ -45,19 +45,19 @@ You should see the version numbers displayed, confirming the installation.
    - Open a terminal or command prompt.
    - Use the `cd` command to move to the directory where you extracted the project:
    
-     cd path/to/extracted/project
+    `cd path/to/extracted/project`
     
 2. Install Project Dependencies:
 
    - In the project directory, run the following command to install the required dependencies:
    
-     npm install
+      `npm install`
 
 3. Start the Development Server:
 
    - After the dependencies are installed, start the development server:
    
-     npm start
+      `npm start`
    
      This will launch the server and automatically open the project in your default web browser.
 
