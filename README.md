@@ -13,7 +13,7 @@
    - Locate the downloaded ZIP file and right-click on it.
    - Choose "Extract" or "Extract All" to unzip the contents.
    - Select a destination folder for the extracted project files.
-<br>
+
 ### Install Node.js and NPM:
 
 1. Download Node.js:
