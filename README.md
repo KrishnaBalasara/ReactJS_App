@@ -1,4 +1,4 @@
-# Downloading, Extracting, and Running a React Project
+## Downloading, Extracting, and Running a React Project
 
 ### Download and Extract the Project:
 
